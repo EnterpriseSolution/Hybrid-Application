@@ -8,7 +8,8 @@ It can run both online and offline, if the hybrid software does not depend on da
 1. Create ASP.NET Web Application using your favourtie front-end technology, such as AngularJS, Vue, Reactor. </br>
 ![Menu](https://github.com/EnterpriseSolution/Hybrid-Application/blob/main/Menu.jpg)
 
-2. Build native application using WPF/Windows Forms/Qt  </br>
+2. Build native application　shell using WPF/Windows Forms/Qt  </br>
+CefSharp is the one of the best native host for web application.
 
 # Deployment 
 We have to deploy the Web Application and native application at the same time.
